@@ -12,9 +12,9 @@ https://user-images.githubusercontent.com/101479360/181246905-01b83a25-3329-4a4f
 
 ## Installation
 
-Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git, and that you have IntelliJ IDEA installed on your system. Open your terminal and go to the directory where you would like to save the app in and enter in the following command:
+Note: This setup tutorial assumes that you already have installed a package manager like npm and the version control system git. Clone the repo. Open your terminal and go to the directory where you would like to save the app in and enter in the following command:
 
-  ``git@github.com:emma-dougherty/fantastic-birds.git``
+  ``git clone https://github.com/emma-dougherty/fantastic-birds``
  
 Once the download has ended, run the following command:
 
